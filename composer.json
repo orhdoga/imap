@@ -1,0 +1,19 @@
+{
+    "name": "nan/imap",
+    "description": "Not an imap library",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "Vincent Swarte",
+            "email": "vincent@vinsert.nl"
+        },
+        {
+            "name": "Niek den Breeje",
+            "email": "n.j.den.breeje@gmail.com"
+        }
+    ],
+    "require": {}
+}
