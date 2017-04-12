@@ -15,5 +15,10 @@
             "email": "n.j.den.breeje@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "IMAP\\": "src/"
+        }
+    }
 }
